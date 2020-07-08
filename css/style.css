@@ -630,7 +630,7 @@ body.lock {
 }
 
 .post {
-  background: url("img/05.jpg") center/cover no-repeat;
+  background: url("../img/05.jpg") center/cover no-repeat;
   padding: 360px 0 70px 0;
 }
 @media (max-width: 1032px) {
